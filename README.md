@@ -143,7 +143,7 @@ streamlit run streamlit_app.py
 
 ## 📸 Screenshots
 
-*Screenshots added in the assetss/ folder for reference.*
+*Screenshots added in the assets/ folder for reference.*
 
 ------------------------------------------------------------------------
 
